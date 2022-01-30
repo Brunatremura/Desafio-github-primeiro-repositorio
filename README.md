@@ -8,32 +8,32 @@ Este é um desafio da DIO com a proposta de criação do primeiro repositório n
 
 
 1. **Criar um novo repositório e inserir o nome e descrição**
-
-   
+<br>
 
    * ![image-20220130201257773](https://github.com/Brunatremura/Desafio-github-primeiro-repositorio/blob/main/Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub/imagens/image-20220130172438008.png?raw=true)
+<br>
 
-
-
+	
 	
 
 2. **Clonar repositório**
-
+<br>
    
 
    * Copiar o link no GitHub: 
 
      ![image-20220130201341706](https://github.com/Brunatremura/Desafio-github-primeiro-repositorio/blob/main/Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub/imagens/image-20220130173905567.png?raw=true)
-
+<br>
    
 
    * No Git BASH inserir **git clone** e o link copiado em sequência: 
 
      `git clone git@github.com:Brunatremura/Desafio-github-primeiro-repositorio.git `
-
+<br>
      
 
 3. **Enviar commits**
+<br>
 
    
 
