@@ -9,15 +9,15 @@ Este é um desafio da DIO com a proposta de criação do primeiro repositório n
 
 1. **Criar um novo repositório e inserir o nome e descrição**
 
-   ![image-20220130172438008](C:\Users\Bruna\AppData\Roaming\Typora\typora-user-images\image-20220130172438008.png)
-
-
+![image-20220130201257773](C:\Users\Bruna\AppData\Roaming\Typora\typora-user-images\image-20220130201257773.png)
 
 2. **Clonar repositório**
 
    * Copiar o link no GitHub: 
 
-   ![image-20220130173905567](C:\Users\Bruna\AppData\Roaming\Typora\typora-user-images\image-20220130173905567.png)
+     ![image-20220130201341706](C:\Users\Bruna\AppData\Roaming\Typora\typora-user-images\image-20220130201341706.png)
+
+   
 
    * No Git BASH inserir **git clone** e o link copiado em sequência: 
 
