@@ -9,13 +9,21 @@ Este é um desafio da DIO com a proposta de criação do primeiro repositório n
 
 1. **Criar um novo repositório e inserir o nome e descrição**
 
-![image-20220130201257773](C:\Users\Bruna\AppData\Roaming\Typora\typora-user-images\image-20220130201257773.png)
+   
+
+   * ![image-20220130201257773](https://github.com/Brunatremura/Desafio-github-primeiro-repositorio/blob/main/Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub/imagens/image-20220130172438008.png?raw=true)
+
+
+
+​	
 
 2. **Clonar repositório**
 
+   
+
    * Copiar o link no GitHub: 
 
-     ![image-20220130201341706](C:\Users\Bruna\AppData\Roaming\Typora\typora-user-images\image-20220130201341706.png)
+     ![image-20220130201341706](https://github.com/Brunatremura/Desafio-github-primeiro-repositorio/blob/main/Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20GitHub/imagens/image-20220130173905567.png?raw=true)
 
    
 
