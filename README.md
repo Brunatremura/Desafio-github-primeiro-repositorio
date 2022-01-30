@@ -26,7 +26,7 @@ No Git BASH inserir **git clone** e o link copiado em sequência:  <br>
 ## Terceiro passo: enviar commits ### 
 <br>
 
-* Utilizando o comando **git  add . ** ele envia as atualizações ao controle de versão 
+* Utilizando o comando **git  add .** ele envia as atualizações ao controle de versão 
 
 * Em seguida deve se utilizar o comando **git commit -m "anotações"** para criar o commit 
 
