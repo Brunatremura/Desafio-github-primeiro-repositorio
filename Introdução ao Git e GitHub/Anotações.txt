@@ -1,0 +1,29 @@
+Comandos Git/GitHub
+
+git init
+iniciar o gerenciamento do código (inicia uma pasta oculta)
+
+
+git config --global user.mail "inseriro@email"
+git config --global user.name "nome" 
+
+
+Comandos de navegação do terminal:
+
+ls
+Listar as pastas 
+
+ls -a 
+Arquivos ocultos 
+
+cls
+limpar terminal 
+
+mkdir
+criar a pasta 
+
+cd
+abrir pasta
+
+cd .. 
+voltar pasta 
